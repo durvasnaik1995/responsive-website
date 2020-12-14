@@ -1,0 +1,37 @@
+*{
+    Margin:0px;
+    }
+body {
+    font-family: "Arvo", serif;
+    font-weight: bold;
+}
+.height{
+    min-height: 100vh!important;
+}
+
+.height1{
+    min-height: 96vh!important;
+}
+
+p{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-align: left;
+}
+
+.underline{
+    border: 3px red solid;
+    width: 35%;
+    margin: 7px auto;
+}
+
+.underline2{
+    border: 9px yellow solid;
+    width: 30%;
+    margin: 5px auto;
+}
+
+.parallel{
+    background: url('../img/Screen.png') center center no-repeat;
+    background-attachment: fixed;
+}
